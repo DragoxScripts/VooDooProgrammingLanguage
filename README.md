@@ -1,7 +1,7 @@
 # VooDoo Programming Language
-A programming language based off of ruby and python.
+A programming language based off of python.
 
 This programming language was made as a challange to see what I can do with python.
-The ideas come from ruby with it's easy to use syntax, and coding is in python because C is hard.
-Hope you like it.
+The ideas come from python because it can do alot of things, athough voodoo can't do much yet.
 The grammer and rules are also like python but much less powerful.
+The reason I included the icon is because you can right click go into propreties, go into coustomize and change the icon.
